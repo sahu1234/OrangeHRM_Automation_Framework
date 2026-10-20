@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name = "OrganeHRM Automation Suite" verbose = "1">
+    <!-- Automatically hooks ExtentReports & Screenshots into every test -->
+    <listeners>
+        <listener class-name="listeners.TestListener"/>
+    </listeners>
+
+    <test name = "Login Functionality Tests">
+        <classes>
+            <!-- IMPORTANT: Match this to the exact package at line 1 of your LoginTest.java -->
+            <class name="testcases.LoginTest"/>
+        </classes>
+    </test>
+
+</suite>
+

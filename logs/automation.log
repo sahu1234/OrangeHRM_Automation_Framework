@@ -1,0 +1,51 @@
+2026-10-20 16:44:06.406 [main] INFO  testcases.LoginTest - Starting login test with Username: 'Admin' | Expected Result: 'VALID'
+2026-10-20 16:44:08.749 [main] INFO  testcases.LoginTest - Valid login successful for user 'Admin'. Redirected to Dashboard.
+2026-10-20 16:44:15.218 [main] INFO  testcases.LoginTest - Starting login test with Username: 'Admin' | Expected Result: 'INVALID'
+2026-10-20 16:44:17.157 [main] WARN  testcases.LoginTest - Invalid login attempt for user 'Admin'. Captured banner: 'Invalid credentials'
+2026-10-20 16:44:23.322 [main] INFO  testcases.LoginTest - Starting login test with Username: 'WrongUser' | Expected Result: 'INVALID'
+2026-10-20 16:44:25.182 [main] WARN  testcases.LoginTest - Invalid login attempt for user 'WrongUser'. Captured banner: 'Invalid credentials'
+2026-10-20 18:07:07.329 [main] INFO  testcases.LoginTest - Starting login test with Username: 'Admin' | Expected Result: 'VALID'
+2026-10-20 18:07:12.901 [main] INFO  testcases.LoginTest - Starting login test with Username: 'Admin' | Expected Result: 'INVALID'
+2026-10-20 18:07:17.129 [main] INFO  testcases.LoginTest - Starting login test with Username: 'WrongUser' | Expected Result: 'INVALID'
+2026-10-20 18:09:28.866 [main] INFO  testcases.LoginTest - Starting login test with Username: 'Admin' | Expected Result: 'VALID'
+2026-10-20 18:09:30.875 [main] INFO  testcases.LoginTest - Valid login successful for user 'Admin'. Redirected to Dashboard.
+2026-10-20 18:09:36.970 [main] INFO  testcases.LoginTest - Starting login test with Username: 'Admin' | Expected Result: 'INVALID'
+2026-10-20 18:09:38.862 [main] WARN  testcases.LoginTest - Invalid login attempt for user 'Admin'. Captured banner: 'Invalid credentials'
+2026-10-20 18:09:43.947 [main] INFO  testcases.LoginTest - Starting login test with Username: 'WrongUser' | Expected Result: 'INVALID'
+2026-10-20 18:09:45.812 [main] WARN  testcases.LoginTest - Invalid login attempt for user 'WrongUser'. Captured banner: 'Invalid credentials'
+2026-10-20 21:54:26.185 [main] INFO  testcases.DashBoardPageTest - Step 1 : Logging in to OrangeHRM
+2026-10-20 21:54:27.263 [main] INFO  testcases.DashBoardPageTest - Step 2: verifying Dashboard header title
+2026-10-20 21:54:29.823 [main] INFO  org.example.OrangeHRM_Automation_Framework.pages.DashboardPage - Captured Page header title: 'Dashboard'
+2026-10-20 21:54:29.825 [main] INFO  testcases.DashBoardPageTest - Step3: Navigating to PIM module from sidebar
+2026-10-20 21:54:29.825 [main] INFO  org.example.OrangeHRM_Automation_Framework.pages.DashboardPage - Clicking on PIM menu in the left sidebar
+2026-10-20 21:54:34.753 [main] INFO  org.example.OrangeHRM_Automation_Framework.pages.DashboardPage - Captured Page header title: 'PIM'
+2026-10-20 21:54:34.754 [main] INFO  testcases.DashBoardPageTest - Step 4: Navigating to Admin module from sidebar
+2026-10-20 21:54:34.754 [main] INFO  org.example.OrangeHRM_Automation_Framework.pages.DashboardPage - Clicking on Admin menu in the left sidebar.
+2026-10-20 21:58:52.555 [main] INFO  testcases.DashBoardPageTest - Step 1 : Logging in to OrangeHRM
+2026-10-20 21:58:57.061 [main] INFO  testcases.DashBoardPageTest - Step 2: verifying Dashboard header title
+2026-10-20 21:59:04.030 [main] INFO  org.example.OrangeHRM_Automation_Framework.pages.DashboardPage - Captured Page header title: 'Dashboard'
+2026-10-20 21:59:04.034 [main] INFO  testcases.DashBoardPageTest - Step3: Navigating to PIM module from sidebar
+2026-10-20 21:59:04.034 [main] INFO  org.example.OrangeHRM_Automation_Framework.pages.DashboardPage - Clicking on PIM menu in the left sidebar
+2026-10-20 21:59:13.828 [main] INFO  org.example.OrangeHRM_Automation_Framework.pages.DashboardPage - Captured Page header title: 'PIM'
+2026-10-20 21:59:13.829 [main] INFO  testcases.DashBoardPageTest - Step 4: Navigating to Admin module from sidebar
+2026-10-20 21:59:13.829 [main] INFO  org.example.OrangeHRM_Automation_Framework.pages.DashboardPage - Clicking on Admin menu in the left sidebar.
+2026-10-20 22:03:40.798 [main] INFO  testcases.DashBoardPageTest - Step 1 : Logging in to OrangeHRM
+2026-10-20 22:03:46.044 [main] INFO  testcases.DashBoardPageTest - Step 2: verifying Dashboard header title
+2026-10-20 22:04:05.063 [main] INFO  org.example.OrangeHRM_Automation_Framework.pages.DashboardPage - Captured Page header title: 'Dashboard'
+2026-10-20 22:04:05.066 [main] INFO  testcases.DashBoardPageTest - Step3: Navigating to PIM module from sidebar
+2026-10-20 22:04:05.066 [main] INFO  org.example.OrangeHRM_Automation_Framework.pages.DashboardPage - Clicking on PIM menu in the left sidebar
+2026-10-20 22:04:28.792 [main] INFO  org.example.OrangeHRM_Automation_Framework.pages.DashboardPage - Captured Page header title: 'PIM'
+2026-10-20 22:04:28.792 [main] INFO  testcases.DashBoardPageTest - Step 4: Navigating to Admin module from sidebar
+2026-10-20 22:04:28.792 [main] INFO  org.example.OrangeHRM_Automation_Framework.pages.DashboardPage - Clicking on Admin menu in the left sidebar.
+2026-10-20 22:12:36.509 [main] INFO  testcases.DashBoardPageTest - Step 1 : Logging in to OrangeHRM
+2026-10-20 22:12:40.588 [main] INFO  testcases.DashBoardPageTest - Step 2: verifying Dashboard header title
+2026-10-20 22:12:59.794 [main] INFO  org.example.OrangeHRM_Automation_Framework.pages.DashboardPage - Captured Page header title: 'Dashboard'
+2026-10-20 22:12:59.799 [main] INFO  testcases.DashBoardPageTest - Step3: Navigating to PIM module from sidebar
+2026-10-20 22:12:59.799 [main] INFO  org.example.OrangeHRM_Automation_Framework.pages.DashboardPage - Clicking on PIM menu in the left sidebar
+2026-10-20 22:13:23.139 [main] INFO  org.example.OrangeHRM_Automation_Framework.pages.DashboardPage - Captured Page header title: 'PIM'
+2026-10-20 22:13:23.140 [main] INFO  testcases.DashBoardPageTest - Step 4: Navigating to Admin module from sidebar
+2026-10-20 22:13:23.140 [main] INFO  org.example.OrangeHRM_Automation_Framework.pages.DashboardPage - Clicking on Admin menu in the left sidebar.
+2026-10-20 22:13:33.874 [main] INFO  org.example.OrangeHRM_Automation_Framework.pages.DashboardPage - Captured Page header title: 'Admin'
+2026-10-20 22:13:33.876 [main] INFO  testcases.DashBoardPageTest - Step 5: Logging out of the applicatipn
+2026-10-20 22:13:33.876 [main] INFO  org.example.OrangeHRM_Automation_Framework.pages.DashboardPage - Opening user profile dropdown to log out.
+2026-10-20 22:13:33.910 [main] INFO  org.example.OrangeHRM_Automation_Framework.pages.DashboardPage - Waiting for Logout option to appear and clicking it.
